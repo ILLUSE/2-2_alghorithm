@@ -18,5 +18,8 @@
     <ClCompile Include="Problem2_pancake.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Problem4_SmartElephant.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
